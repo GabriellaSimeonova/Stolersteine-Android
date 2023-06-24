@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Stolpersteine</string>
+    <string name="title_activity_homepage">Homepageee</string>
+    <string name="title_activity_profile">Profileee</string>
+    <string name="title_activity_map">Mappe</string>
+</resources>

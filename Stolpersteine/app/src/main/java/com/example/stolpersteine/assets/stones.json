@@ -1,0 +1,442 @@
+[
+  {
+    "id": 5,
+    "city": "Eindhoven",
+    "officialStone": true,
+    "address": "Sint Catharinastraat 60",
+    "name": "Meijer Blomhoff",
+    "dateOfBirth": "30-04-1901",
+    "dateOfPassing": "28-02-1943",
+    "placeOfPassing": "Auschwitz",
+    "reasonOfPassing": "Joods",
+    "gender": "male",
+    "photo": "https://cdn.struikelstenengids.nl/images/portrait/dd266d84-de4c-48cd-8697-e1d411f0b2ab.jpeg",
+    "url": "https://www.joodsmonument.nl/nl/page/138395/meijer-blomhoff",
+    "niodUrl": "https://www.oorlogslevens.nl/tijdlijn/Meijer-Blomhoff/02/14771",
+    "mapUrl": "https://map.stolpersteine.app/nl/eindhoven/locaties/sint-catharinastraat-60",
+    "location": {
+      "lat": 51.4357574,
+      "long": 5.472525300000029
+    }
+  },
+  {
+    "id": 8476,
+    "city": "Leuven",
+    "officialStone": true,
+    "address": "Koning Albertlaan 108",
+    "name": "Noemi Bertha Rothschild",
+    "dateOfBirth": "1931",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Joods",
+    "gender": "female",
+    "photo": "https://cdn.struikelstenengids.nl/img/female_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/leuven-louvain-be/locaties/koning-albertlaan-108",
+    "location": {
+      "lat": 50.8745562,
+      "long": 4.7236857
+    }
+  },
+  {
+    "id": 6241,
+    "city": "Meppel",
+    "officialStone": true,
+    "address": "Woldstraat 48",
+    "name": "Roosje Levie-Valk",
+    "dateOfBirth": "20-08-1896",
+    "dateOfPassing": "13-11-1942",
+    "placeOfPassing": "Auschwitz",
+    "reasonOfPassing": "Joods",
+    "gender": "female",
+    "photo": "https://cdn.struikelstenengids.nl/img/female_adult.png",
+    "url": "https://www.joodsmonument.nl/nl/page/130563/roosje-levie-valk",
+    "niodUrl": "https://www.oorlogslevens.nl/tijdlijn/Roosje-Levie-Valk/02/92826",
+    "mapUrl": "https://map.stolpersteine.app/nl/meppel/locaties/woldstraat-48",
+    "location": {
+      "lat": 52.6983091,
+      "long": 6.193133799999941
+    }
+  },
+  {
+    "id": 8026,
+    "city": "Brussel",
+    "officialStone": true,
+    "address": "Alphonse Hottastraat 1",
+    "name": "Adela Korn",
+    "dateOfBirth": "1909",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Joods",
+    "gender": "female",
+    "photo": "https://cdn.struikelstenengids.nl/img/female_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/brussel/locaties/rue-alphonse-hottat-1-alphonse-hottastraat-1",
+    "location": {
+      "lat": 50.8284038,
+      "long": 4.377993399999999
+    }
+  },
+  {
+    "id": 8417,
+    "city": "Eupen",
+    "officialStone": true,
+    "address": "Gospertstraße 54",
+    "name": "Estera Zysla Schalit",
+    "dateOfBirth": "1908",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Joods",
+    "gender": "female",
+    "photo": "https://cdn.struikelstenengids.nl/img/female_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/eupen-be/locaties/gospertstrasse-54",
+    "location": {
+      "lat": 50.632234,
+      "long": 6.0356093
+    }
+  },
+  {
+    "id": 2796,
+    "city": "Oss",
+    "officialStone": true,
+    "address": "Floraliastraat 3",
+    "name": "Salomon Haagens",
+    "dateOfBirth": "08-10-1919",
+    "dateOfPassing": "28-02-1943",
+    "placeOfPassing": "Auschwitz",
+    "reasonOfPassing": "Joods",
+    "gender": "male",
+    "photo": "https://cdn.struikelstenengids.nl/img/male_adult.png",
+    "url": "https://www.joodsmonument.nl/nl/page/129264/salomon-haagens",
+    "niodUrl": "https://www.oorlogslevens.nl/tijdlijn/Salomon-Haagens/02/55970",
+    "mapUrl": "https://map.stolpersteine.app/nl/oss/locaties/floraliastraat-3",
+    "location": {
+      "lat": 51.762455,
+      "long": 5.529085500000065
+    }
+  },
+  {
+    "id": 8163,
+    "city": "Brussel",
+    "officialStone": true,
+    "address": "André Fauchillestraat 10",
+    "name": "Andrée Ovart",
+    "dateOfBirth": "1921",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Verzetsstrijder",
+    "gender": "male",
+    "photo": "https://cdn.struikelstenengids.nl/img/male_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/brussel/locaties/andre-fauchille-10-andre-fauchillestraat-10",
+    "location": {
+      "lat": 50.8355638,
+      "long": 4.4112389
+    }
+  },
+  {
+    "id": 8202,
+    "city": "Pepinster",
+    "officialStone": true,
+    "address": "Rue Neuve, 27",
+    "name": "Laurent-Joseph Degueldre",
+    "dateOfBirth": "1904",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Verzetsstrijder",
+    "gender": "male",
+    "photo": "https://cdn.struikelstenengids.nl/img/male_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/pepinster-be/locaties/rue-neuve-27",
+    "location": {
+      "lat": 50.5671664,
+      "long": 5.8032517
+    }
+  },
+  {
+    "id": 8117,
+    "city": "Brussel",
+    "officialStone": true,
+    "address": "Huidevettersstraat 33",
+    "name": "Rebecca-Toiba Zaslavsky",
+    "dateOfBirth": "1921",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Joods",
+    "gender": "male",
+    "photo": "https://cdn.struikelstenengids.nl/img/male_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/brussel/locaties/huidevettersstraat-33",
+    "location": {
+      "lat": 50.840292,
+      "long": 4.346414999999999
+    }
+  },
+  {
+    "id": 6729,
+    "city": "Amsterdam",
+    "officialStone": true,
+    "address": "Gerrit van der Veenstraat 163 - Zuid (Voorheen Euterpestraat 163)",
+    "name": "Marianne Eva Levenbach",
+    "dateOfBirth": "1928",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Joods",
+    "gender": "female",
+    "photo": "https://cdn.struikelstenengids.nl/img/female_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/amsterdam/locaties/gerrit-van-der-veenstraat-163-zuid-voorheen-euterpestraat-163",
+    "location": {
+      "lat": 52.3485777,
+      "long": 4.868567900000016
+    }
+  },
+  {
+    "id": 8252,
+    "city": "Brussel",
+    "officialStone": true,
+    "address": "Huidevettersstraat 140",
+    "name": "Lotte Grunspan-Buch",
+    "dateOfBirth": "1892",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Joods",
+    "gender": "male",
+    "photo": "https://cdn.struikelstenengids.nl/img/male_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/brussel/locaties/rue-des-tanneurs-140-huidevettersstraat-140",
+    "location": {
+      "lat": 50.8376832,
+      "long": 4.3441843
+    }
+  },
+  {
+    "id": 8174,
+    "city": "Brussel",
+    "officialStone": true,
+    "address": "André Fauchillestraat 10",
+    "name": "Chaja-Helena Gangarska",
+    "dateOfBirth": "1925",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Joods",
+    "gender": "female",
+    "photo": "https://cdn.struikelstenengids.nl/img/female_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/brussel/locaties/andre-fauchille-10-andre-fauchillestraat-10",
+    "location": {
+      "lat": 50.8355638,
+      "long": 4.4112389
+    }
+  },
+  {
+    "id": 8015,
+    "city": "Brussel",
+    "officialStone": true,
+    "address": "Regentschapsstraat 51",
+    "name": "Claire Duysburgh",
+    "dateOfBirth": "08-01-1899",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Verzetsstrijder",
+    "gender": "female",
+    "photo": "https://cdn.struikelstenengids.nl/img/female_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/brussel/locaties/regentschapsstraat-51",
+    "location": {
+      "lat": 50.8387453,
+      "long": 4.3544629
+    }
+  },
+  {
+    "id": 7925,
+    "city": "Brussel",
+    "officialStone": true,
+    "address": "Sint-Michielstraat 22",
+    "name": "Richard Sufit",
+    "dateOfBirth": "1925",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Joods",
+    "gender": "male",
+    "photo": "https://cdn.struikelstenengids.nl/img/male_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/brussel/locaties/rue-st-michel-22-sint-michielstraat-22",
+    "location": {
+      "lat": 50.8524227,
+      "long": 4.3548002
+    }
+  },
+  {
+    "id": 7927,
+    "city": "Brussel",
+    "officialStone": true,
+    "address": "Camuselstraat 64",
+    "name": "Charles van West",
+    "dateOfBirth": "1913",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Joods",
+    "gender": "male",
+    "photo": "https://cdn.struikelstenengids.nl/img/male_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/brussel/locaties/rue-camusel-4-camuselstraat-64",
+    "location": {
+      "lat": 50.8470982,
+      "long": 4.3402572
+    }
+  },
+  {
+    "id": 6754,
+    "city": "Amsterdam",
+    "officialStone": true,
+    "address": "Jodenbreestraat 13 - Centrum",
+    "name": "Stella Hamerslag",
+    "dateOfBirth": "24-05-1931",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Joods",
+    "gender": "female",
+    "photo": "https://cdn.struikelstenengids.nl/img/female_adult.png",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/amsterdam/locaties/jodenbreestraat-13-centrum",
+    "location": {
+      "lat": 52.3690904,
+      "long": 4.902850899999976
+    }
+  },
+  {
+    "id": 1307,
+    "city": "Heerlen",
+    "officialStone": true,
+    "address": " Eikenderweg 13",
+    "name": "Hilde Münz",
+    "dateOfBirth": "05-06-1933",
+    "dateOfPassing": "31-08-1942",
+    "placeOfPassing": "Auschwitz",
+    "reasonOfPassing": "Joods",
+    "gender": "female",
+    "photo": "https://cdn.struikelstenengids.nl/images/portrait/33be98f6-9994-4fac-88bd-83f33f5a8847.jpeg",
+    "url": "https://www.joodsmonument.nl/nl/page/133840/hilde-munz",
+    "niodUrl": "https://www.oorlogslevens.nl/tijdlijn/Hilde-M%C3%BCnz/02/107983",
+    "mapUrl": "https://map.stolpersteine.app/nl/heerlen/locaties/eikenderweg-13",
+    "location": {
+      "lat": 50.8897498,
+      "long": 5.969536000000062
+    }
+  },
+  {
+    "id": 9165,
+    "city": "Amersfoort",
+    "officialStone": false,
+    "address": "Dahliastraat 6",
+    "name": "Jacob Willem Overeem",
+    "dateOfBirth": "14-02-1899",
+    "dateOfPassing": "15-02-1945",
+    "placeOfPassing": "Neuengamme",
+    "reasonOfPassing": "Verzetsstrijder",
+    "gender": "male",
+    "photo": "https://cdn.struikelstenengids.nl/img/male_adult.png",
+    "url": "https://www.oorlogsgravenstichting.nl/persoon/113868/jacob-willem-overeem",
+    "niodUrl": "https://www.oorlogslevens.nl/tijdlijn/Jacob-Willem-Overeem/02/113868",
+    "mapUrl": "https://map.stolpersteine.app/nl/amersfoort/locaties/dahliastraat-6",
+    "location": {
+      "lat": 52.15939,
+      "long": 5.35594
+    }
+  },
+  {
+    "id": 2663,
+    "city": "Gorinchem",
+    "officialStone": true,
+    "address": "Gasthuisstraat 61",
+    "name": "Heintje van Bueren",
+    "dateOfBirth": "07-05-1922",
+    "dateOfPassing": "31-08-1942",
+    "placeOfPassing": "Auschwitz",
+    "reasonOfPassing": "Joods",
+    "gender": "female",
+    "photo": "https://cdn.struikelstenengids.nl/images/portrait/66f37729-a08d-498c-9c20-518b8a034425.jpeg",
+    "url": "https://www.joodsmonument.nl/nl/page/137438/heintje-van-bueren",
+    "niodUrl": "https://www.oorlogslevens.nl/tijdlijn/Heintje-van-Bueren/02/22704",
+    "mapUrl": "https://map.stolpersteine.app/nl/gorinchem/locaties/gasthuisstraat-61",
+    "location": {
+      "lat": 51.8303583,
+      "long": 4.972950699999956
+    }
+  },
+  {
+    "id": 8551,
+    "city": "Amsterdam",
+    "officialStone": true,
+    "address": "Herculesstraat 25",
+    "name": "Lilo Ballin Lissaur",
+    "dateOfBirth": "1908",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Joods",
+    "gender": "male",
+    "photo": "https://cdn.struikelstenengids.nl/img/male_adult.png",
+    "url": null,
+    "niodUrl": "https://www.oorlogsbronnen.nl/tijdlijn/Lilo-Ballin-Lissaur/48/8551",
+    "mapUrl": "https://map.stolpersteine.app/nl/amsterdam/locaties/herculesstraat-25",
+    "location": {
+      "lat": 52.3486533,
+      "long": 4.864004
+    }
+  },
+  {
+    "id": 8136,
+    "city": "Brussel",
+    "officialStone": true,
+    "address": "Hoogstraat 49",
+    "name": "Maria Rosenblum-Gurfinkel (Gurfinkiel)",
+    "dateOfBirth": "17-08-1922",
+    "dateOfPassing": "Overlevende, bevrijd",
+    "placeOfPassing": "nvt",
+    "reasonOfPassing": "Joods",
+    "gender": "female",
+    "photo": "https://cdn.struikelstenengids.nl/images/portrait/ed584c1d-743a-4b73-a38d-065c3e2eb8b0.jpeg",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/brussel/locaties/rue-haute-49-hoogstraat-49",
+    "location": {
+      "lat": 50.8405649,
+      "long": 4.3512068
+    }
+  },
+  {
+    "id": 7937,
+    "city": "Antwerpen",
+    "officialStone": true,
+    "address": "Stoomstraat 3",
+    "name": "Keyla Gitla Szafirsztejn",
+    "dateOfBirth": "24-08-1894",
+    "dateOfPassing": "17-08-1942",
+    "placeOfPassing": "Auschwitz",
+    "reasonOfPassing": "Joods",
+    "gender": "female",
+    "photo": "https://cdn.struikelstenengids.nl/images/portrait/10375866-5fd0-4bb6-adc8-67922e7852fd.jpeg",
+    "url": null,
+    "niodUrl": null,
+    "mapUrl": "https://map.stolpersteine.app/nl/antwerpen-be/locaties/stoomstraat-3",
+    "location": {
+      "lat": 51.2128373,
+      "long": 4.4220016
+    }
+  }
+]
